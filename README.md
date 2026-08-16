@@ -1,6 +1,4 @@
 # Heart_Disease_MACHINE_LEARNING
-#METODOLOGÍA CRISP-DM
-
 # 🫀 Predicción de Enfermedades Cardíacas con Machine Learning
 <p align="center">
   <img src="ROC.png" width="100%" />
